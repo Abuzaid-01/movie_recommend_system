@@ -22,3 +22,14 @@ Make sure all three files (`movie_list.pkl`, `similarity.pkl`, `recommendation_t
 
 ```bash
 python recommendation_tool.py
+
+# 🔧 Requirements
+Python 3.7+
+
+Libraries:
+
+pandas
+
+sklearn
+
+pickle
